@@ -1,0 +1,13 @@
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.exe
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.deps.json
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.runtimeconfig.json
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.runtimeconfig.dev.json
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.csprojAssemblyReference.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.AssemblyInfoInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.AssemblyInfo.cs
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.csproj.CoreCompileInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\Exception Handling\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.genruntimeconfig.cache
